@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285172446692']
-global.ownernomer = "6285172446692"
-global.premium = ['6285172446692']
-global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.owner = ['6281393936306']
+global.ownernomer = "6281393936306"
+global.premium = ['6281393936306']
+global.packname = 'Sticker By Doro'
+global.author = 'Doro-Bot'
 global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,9 +65,9 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'DORO BOT'
+global.akulaku = 'Bot By wisnu'
+global.ytname = 'YT Doro' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
