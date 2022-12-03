@@ -60,7 +60,7 @@ global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
 global.mygit = 'https://github.com/FahriAdison'
-global.myyt = 'https://bit.ly/Papah-Chan'
+global.myyt = 'https://youtube.com/@Doro505'
 global.myytv = ''
 global.mygc = ""
 
